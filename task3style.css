@@ -1,0 +1,70 @@
+     body {
+      font-family:Arial, Helvetica, sans-serif;
+      background: linear-gradient(to left, hsl(173, 38%, 73%), #e6d4f4, #f1b3ff);
+    }
+
+    .navbar {
+      padding: 12px 12px;
+    }
+
+    .navbar-brand {
+      font-weight: 500;
+        font-size: 1.5rem;
+    }
+
+    .nav-link {
+      font-weight: 500;
+      color: rgb(0, 0, 0);
+      padding: 12px;;
+      margin-right: 20px;
+    }
+
+    .nav-link.active {
+      color: #fa097a !important;
+      background: #a6deff;
+      border-radius: 5px;
+      border-color: #555;
+      padding: 8px 16px;
+    }
+
+    .btn-primary {
+      background-color: #31cfd7;
+      border: 1px solid rgb(152, 108, 209);
+      padding: 10px 25px;
+      border-radius: 6px;
+    }
+
+    .btn-primary:hover {
+      background-color: #c4bdf3;
+      color: black !important;
+     
+    }
+    .btn-primary:visited{
+        color:yellow;
+    }
+
+    .section1 {
+      padding: 100px 0;
+    }
+
+    .section1 h1 {
+      font-weight: 600;
+      font-size: 3 rem;
+    }
+
+    .section1 p {
+      color: #000000;
+      font-size: 1rem;
+      max-width: 500px;
+    }
+    .stats-box{
+      background:#e6f7ff;
+      border-radius: 10px;
+      padding: 25px;
+      text-align: center;
+    }
+    .stats-box h4{
+      font-weight: 500;
+      box-shadow: #e6d4f4;
+    }
+   
