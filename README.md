@@ -1,1 +1,1 @@
-# tech_stdio_assignment
+# tech_stdio_practices
